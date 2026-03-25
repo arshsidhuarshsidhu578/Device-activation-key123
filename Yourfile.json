@@ -13,33 +13,9 @@
     },
     {
         "device_id": "149f112c1b2fe1cd",
-        "key": "hsjxcuk",
-        "expirydate": "15-04-2026",
-        "Allowoffline": false
-    },
-    
-    {
-        "device_id": "149f112c1b2fe1cd",
-        "key": "hsjxcuk",
-        "expirydate": "15-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "149f112c1b2fe1cd",
-        "key": "hsjxcuk",
-        "expirydate": "3min",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "1minute",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "149f112c1b2fe1cd",
-        "key": "key67890",
-        "expirydate": "1minute",
+        "key": "sidhu123",
+        "expirydate": "25-03-2026",
+        "expirytime": "00-02-45",
         "Allowoffline": false
     }
 ]
