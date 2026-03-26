@@ -14,33 +14,7 @@
     {
         "device_id": "149f112c1b2fe1cd",
         "key": "sidhu123",
-        "expirydate": "26-03-2026",
-        "expirytime": "1:15pm",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "149f112c1b2fe1cd",
-        "key": "sidhu123",
-        "expirydate": "26-03-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "920f1e3cc9538bd6",
-        "key": "love123",
-        "expirydate": "26-03-2026",
-        "Allowoffline": false
-    },
-    
-    {
-        "device_id": "149f112c1b2fe1cd",
-        "key": "key67890",
-        "expirydate": "23-012-2029",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "149f112c1b2fe1cd",
-        "key": "sidhu123",
-        "expirydate": "23-10-2026",
+        "expirydate": "26-04-2026",
         "Allowoffline": false
     }
 ]
